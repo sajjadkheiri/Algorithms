@@ -1,0 +1,15 @@
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/bin/Debug/net9.0/Algorithms.TwoSum
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/bin/Debug/net9.0/Algorithms.TwoSum.deps.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/bin/Debug/net9.0/Algorithms.TwoSum.runtimeconfig.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/bin/Debug/net9.0/Algorithms.TwoSum.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/bin/Debug/net9.0/Algorithms.TwoSum.pdb
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.AssemblyInfoInputs.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.AssemblyInfo.cs
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.csproj.CoreCompileInputs.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.sourcelink.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/refint/Algorithms.TwoSum.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.pdb
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/Algorithms.TwoSum.genruntimeconfig.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.TwoSum/obj/Debug/net9.0/ref/Algorithms.TwoSum.dll
