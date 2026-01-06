@@ -1,0 +1,15 @@
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/bin/Debug/net9.0/Algorithms.LengthOfLongestSubstring
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/bin/Debug/net9.0/Algorithms.LengthOfLongestSubstring.deps.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/bin/Debug/net9.0/Algorithms.LengthOfLongestSubstring.runtimeconfig.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/bin/Debug/net9.0/Algorithms.LengthOfLongestSubstring.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/bin/Debug/net9.0/Algorithms.LengthOfLongestSubstring.pdb
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.AssemblyInfoInputs.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.AssemblyInfo.cs
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.csproj.CoreCompileInputs.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.sourcelink.json
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/refint/Algorithms.LengthOfLongestSubstring.dll
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.pdb
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/Algorithms.LengthOfLongestSubstring.genruntimeconfig.cache
+/Users/sajjad/Documents/Project/Repository/Algorithms/Algorithms/Algorithms.LengthOfLongestSubstring/obj/Debug/net9.0/ref/Algorithms.LengthOfLongestSubstring.dll
